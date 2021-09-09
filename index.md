@@ -2,7 +2,7 @@
 
 ## About me
 
-<img src="index.assets/Personal Photo.jpg" style="zoom: 67%;" />
+<img src="index.assets/Personal Photo.jpg" style="zoom: 50%;" />
 
 Hi, I'm **Hao Ruan (阮浩)**.
 
