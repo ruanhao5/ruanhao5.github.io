@@ -21,6 +21,7 @@ My research interests include **deep learning** and **point clouds**.
 - **Address**:  Wuhan, China
 - **Email**: ruanhao@hust.edu.cn
 - **GitHub**: https://github.com/ruanhao5
+- **Gitee**: https://gitee.com/ruan_hao
 - **School**: Huazhong University of Science and Technology
 
 ## Education
