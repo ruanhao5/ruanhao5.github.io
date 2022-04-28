@@ -14,14 +14,15 @@ My research interests include **deep learning** and **point clouds**.
 
 - "Huawei Cup" Mathematical Contest in Modeling (Second Price), 2020
 - The First Prize Scholarship of HUST, 2020
+- The Second Prize Scholarship of HUST, 2021
 
 ## Personal Info
 
-- **Research**: Deep learning, Point Clouds
+- **Research**: Deep learning, Point Clouds, 3D object detection
 - **Address**:  Wuhan, China
 - **Email**: ruanhao@hust.edu.cn
-- **GitHub**: https://github.com/ruanhao5
-- **Gitee**: https://gitee.com/ruan_hao
+- **GitHub**: [https://github.com/ruanhao5](https://github.com/ruanhao5)
+- **Gitee**: [https://gitee.com/ruan_hao](https://gitee.com/ruan_hao)
 - **School**: Huazhong University of Science and Technology
 
 ## Education
