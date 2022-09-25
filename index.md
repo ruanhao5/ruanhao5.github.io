@@ -10,6 +10,15 @@ Now, I am a master's degree student in School of Artificial Intelligence and Aut
 
 My research interests include **deep learning** and **point clouds**.
 
+## Experience
+
+- **Research Intern**：Megvii (Transformer) (2022.1–2022.7)
+
+## Education
+
+- **MA**: [School of Artificial Intelligence and Automation](http://english.aia.hust.edu.cn/), [Huazhong University of Science and Technology](http://english.hust.edu.cn/) (2020.09 - Now)
+- **BA**: [Mechanical and Electrical Engineering College](https://hd.hainanu.edu.cn/jidian/), [Hainan University](https://ha.hainanu.edu.cn/home2020/) (2016.09 - 2020.06)
+
 ## Honors
 
 - "Huawei Cup" Mathematical Contest in Modeling (Second Price), 2020
@@ -24,13 +33,3 @@ My research interests include **deep learning** and **point clouds**.
 - **GitHub**: [https://github.com/ruanhao5](https://github.com/ruanhao5)
 - **Gitee**: [https://gitee.com/ruan_hao](https://gitee.com/ruan_hao)
 - **School**: Huazhong University of Science and Technology
-
-## Experience
-
-- **Research Intern**：Megvii (Transformer) (2022.1–2022.7)
-
-## Education
-
-- **MA**: [School of Artificial Intelligence and Automation](http://english.aia.hust.edu.cn/), [Huazhong University of Science and Technology](http://english.hust.edu.cn/) (2020.09 - Now)
-- **BA**: [Mechanical and Electrical Engineering College](https://hd.hainanu.edu.cn/jidian/), [Hainan University](https://ha.hainanu.edu.cn/home2020/) (2016.09 - 2020.06)
-
