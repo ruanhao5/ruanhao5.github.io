@@ -16,7 +16,7 @@ My research interests include **deep learning** and **point clouds**.
 
 ## Education
 
-- **MA**: [School of Artificial Intelligence and Automation](http://english.aia.hust.edu.cn/), [Huazhong University of Science and Technology](http://english.hust.edu.cn/) (2020.09 - Now)
+- **MA**: [School of Artificial Intelligence and Automation](http://english.aia.hust.edu.cn/), [Huazhong University of Science and Technology](http://english.hust.edu.cn/) (2020.09 - 2023.06)
 - **BA**: [Mechanical and Electrical Engineering College](https://hd.hainanu.edu.cn/jidian/), [Hainan University](https://ha.hainanu.edu.cn/home2020/) (2016.09 - 2020.06)
 
 ## Honors
